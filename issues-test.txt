@@ -3,3 +3,4 @@ Third commit
 Second commit
 Trying to close a closed issue.
 Amending the closing commit.
+try another time
